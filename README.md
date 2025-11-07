@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EunjiTan/EunjiTan/main/5dd59fa3a2be962bc0ae33ba4334271a.jpg" alt="Hero Image" width="100%"/>
+  <img src="https://raw.githubusercontent.com/EunjiTan/EunjiTan/main/626462a2a802bb68a7135cc605816ea3.jpg" alt="Hero Image" width="100%"/>
 </p>
 
 ## Hi, I'm Tristan and I'm a certified Systems-Oriented Full-Stack👨‍💻📊
