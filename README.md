@@ -3,14 +3,14 @@
 </p>
 
 ## Hi, I'm Tristan and I'm a certified Systems-Oriented Full-Stack👨‍💻📊
-- SEO-Focused Software Engineer | Technical SEO & Data Systems Specialist <br/>
+- Software Engineer | AI & Distributed Systemst <br/>
 - Computer Science with hands-on experience in web scraping, data analysis, and automation. <br/>
-- Built SEO tools processing 520+ URLs, keyword tracking dashboards, and ML-powered systems.  <br/>
 - Proficient in Python, SQL, and web technologies with CompTIA Security+ and CCNA certifications.<br/>
 - A seasoned software engineer with a proven track record in designing and leading the development of productivity tools.<br/>
 - Software Engineer specializing in sync engines, canvas rendering, performance optimization, and scalable architecture. <br/>
-- Led SHIELD, an open-source computer vision framework, adopted by feu institute of technology<br/>
-- Prior to this, I contributed to collaborative spreadsheets and documents at FIT <br/>
+- Building gesture-controlled applications and creative interactive experiences  <br/>
+- Crafting AI-powered tools, smart assistants, and experimental web applications<br/>
+- Built production-ready AI assistants with natural language processing capabilities <br/>
 - Currently, I am focusing on AI and distributed systems.<br/>
 
 # 💻 Tech Stack:
