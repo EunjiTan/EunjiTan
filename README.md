@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Tristan and I'm a certified Systems-Oriented Full-Stack👨‍💻📊
-- Software Engineer | AI & Distributed Systemst <br/>
+- Software Engineer | AI & Distributed Systems <br/>
 - Computer Science with hands-on experience in web scraping, data analysis, and automation. <br/>
 - Proficient in Python, SQL, and web technologies with CompTIA Security+ and CCNA certifications.<br/>
 - A seasoned software engineer with a proven track record in designing and leading the development of productivity tools.<br/>
